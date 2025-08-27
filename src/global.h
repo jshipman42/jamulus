@@ -182,7 +182,7 @@ LED bar:      lbr
 #define MAX_NUM_FADER_GROUPS 8
 
 // maximum number of recognized sound cards installed in the system
-#define MAX_NUMBER_SOUND_CARDS 129 // e.g. 16 inputs, 8 outputs + default entry (MacOS)
+#define MAX_NUMBER_SOUND_CARDS 1025 // e.g. 16 inputs, 8 outputs + default entry (MacOS)
 
 // define the maximum number of audio channel for input/output we can store
 // channel infos for (and therefore this is the maximum number of entries in
